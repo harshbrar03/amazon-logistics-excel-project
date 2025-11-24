@@ -127,8 +127,8 @@ Pivot charts created for:
 ## 📸 Project Dashboards
 The dashboards are fully interactive and allow filtering by:  
 **Traffic • Weather • Area • Category • Vehicle**<br>
-![Dashboard 1](images/dashboard1.png)<br>
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 1](images/dashboard1.PNG)
+![Dashboard 2](images/dashboard2.PNG)
 
 ---
 
